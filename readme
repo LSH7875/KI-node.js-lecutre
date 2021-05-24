@@ -1,0 +1,18 @@
+library없이
+쌩으로 사용해서
+로직 볻여드리는게 맞다고 생각함.
+처음부터 끝까지 
+다 구현해보려고함.
+
+용어의 정리
+
+1.session과 cookie는 피룡
+2.oAuth:http 기반 보안 protocol
+
+
+ahtherication 인증
+authorization 허가
+
+Redirect URI
+http://localhost:8000/auth/kakao/callback
+

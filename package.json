@@ -1,0 +1,19 @@
+{
+  "name": "0521",
+  "version": "1.0.0",
+  "description": "library없이\r 쌩으로 사용해서\r 로직 볻여드리는게 맞다고 생각함.\r 처음부터 끝까지 \r 다 구현해보려고함.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "express-session": "^1.17.2",
+    "nunjucks": "^3.2.3",
+    "qs": "^6.10.1"
+  }
+}
